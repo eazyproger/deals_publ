@@ -1,1 +1,1 @@
-web: gunicorn deals.wsgi --log-file
+web: gunicorn deals.wsgi
